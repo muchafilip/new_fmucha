@@ -9970,6 +9970,15 @@ p {
   background-size: auto;
   
 }
+.page-section3 {
+  padding: 6rem 0;
+  background-image: linear-gradient(rgba(50,50,50,0.95), rgba(50,50,50,0.95)), url("../assets/img/code3.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  
+}
 .page-section h2.section-heading {
   font-size: 2.5rem;
   margin-top: 0;
